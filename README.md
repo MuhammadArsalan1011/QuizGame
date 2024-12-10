@@ -83,3 +83,7 @@ This project was created as a practical exercise in **desktop application develo
 🎉 **Thank you for exploring the Quiz Game Application!** Feel free to fork, customize, and share your own versions!  
 
 ✨ _Happy Quizzing!_ ✨
+
+# Collaborators
+  - Palak Sharma
+  - Muhammad Arsalan

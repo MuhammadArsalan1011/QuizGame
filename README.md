@@ -5,11 +5,11 @@ Welcome to the **Quiz Game Application**, a dynamic and interactive desktop appl
 ---
 
 ## 📋 Table of Contents
-1. [📖 Project Overview](#project-overview)
-2. [✨ Features](#features)
-3. [🛠️ Technologies Used](#technologies-used)
-4. [📌 Project Context](#project-context)
-5. [🖼️ Application Workflow](#application-workflow)
+1. [📖 Project Overview](#-project-overview)
+2. [✨ Features](#-features)
+3. [🛠️ Technologies Used](#-technologies-used)
+4. [📌 Project Context](#-project-context)
+5. [🖼️ Application Workflow](#-application-workflow)
 
 ---
 
